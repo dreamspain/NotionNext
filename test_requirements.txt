@@ -1,0 +1,7 @@
+# 测试所需的Python依赖包
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+requests>=2.31.0
+requests-mock>=1.11.0
+coverage>=7.3.0
